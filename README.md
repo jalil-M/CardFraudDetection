@@ -1,8 +1,8 @@
 # Credit Card Fraud Detection Kaggle Dataset - Infosys Assignment
 
-This is an assignment for an Infosys Tech Recruiter. 
+This is an assignment done as part of the Technical recruitment at Infosys. 
 
-He gave us a challenge : Detect Anomalies or Frauds in ATM or Credit Card Transactions.
+I was given a challenge : Detect Anomalies or Frauds in ATM or Credit Card Transactions.
 The first step was to find a suitable dataset in order to conduct our analysis. In that regard, I prefered to look for kaggle datasets because it is difficult to find ATM Data sets since it contains sensitive data.
 
 Hence, I found the **"Credit Card Fraud Detection"** Dataset, which will be a classification challenge.
